@@ -1,1 +1,1 @@
-personal website object
+personal single page app
